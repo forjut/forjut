@@ -2,5 +2,5 @@
 
 Javascript Developer
 
-- working with: react, angular, nest
+- working with: next, nest
 - how to reach me: tg @splitfire_kamin
